@@ -1,4 +1,7 @@
-![](https://github.com/Subham12R/subham12r/blob/main/tenor.gif)
+<div align="center">
+  <img src="https://github.com/Subham12R/subham12r/blob/main/tenor.gif" alt="coding gif" width="100%" height="50%"/>
+</div>
+
 
 # 💫 About Me:
 Hi, I’m Subham — a passionate Full Stack Web Developer specializing in React, Next.js, and Node.js. I’m currently focusing on mastering Three.js, GSAP animations, and building powerful REST APIs and backend systems. I love creating interactive, high-performance web experiences that combine creativity with functionality.
