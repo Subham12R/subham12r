@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-I’m currently working as a Frontend Developer at Ryze AI<br><br><br>Developing ZEROUI<br><br>Currently studying at Adamas University, BTech CSE<br><br>👨‍💻 All of my projects are available at subham12r.me<br><br>📫 How to reach me rikk4335@gmail.com<br><br><br>
+I’m currently working as a Fullstack Developer Developing Our College Community Web Site and Dashboard<br><br><br>Developing ZEROUI<br><br>Currently studying at Adamas University, BTech CSE<br><br>👨‍💻 All of my projects are available at subham12r.me<br><br>📫 How to reach me rikk4335@gmail.com<br><br><br>
 
 
 ## 🌐 Socials:
