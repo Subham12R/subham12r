@@ -47,8 +47,6 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham12r&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subham12r&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Subham12r&icon=2&color=3)](https://visitcount.itsvg.in)
