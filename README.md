@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Subham12R/subham12r/blob/main/tenor.gif" alt="coding gif" width="100%" height="50%"/>
+  <img src="https://github.com/Subham12R/subham12r/blob/main/banner,jpeg" alt="coding banner" width="100%" height="50%"/>
 </div>
 
 
