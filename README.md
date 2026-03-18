@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello, I'm I am Subham Karmakar
+# Hello, I am Subham Karmakar
 ### FullStack Web Developer | 0DAY Vice Lead
 
 I'm a full-stack developer who enjoys turning complex problems into simple, elegant solutions. I focus on building scalable, performant web applications with clean architecture, thoughtful design, and real world impact.. From idea to production, I care about writing code that's maintainable, meaningful, and built to last.
