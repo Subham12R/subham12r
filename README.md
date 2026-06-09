@@ -36,9 +36,6 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=subham12r&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham12r&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham12r&theme=dark" alt="GitHub Streak" />
 
