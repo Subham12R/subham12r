@@ -2,84 +2,75 @@
 
 <img src="https://github.com/Subham12R/subham12r/blob/main/banner.jpg" alt="banner" width="100%" />
 
+<br/><br/>
+
+# Subham Karmakar
+
+<sub>B U I L D &nbsp;&nbsp;•&nbsp;&nbsp; S H I P &nbsp;&nbsp;•&nbsp;&nbsp; S C A L E</sub>
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=60&lines=Hey+there!+I'm+Subham+%F0%9F%91%8B;FullStack+Web+Developer;CYCODERS+Tech+Lead;Building+things+that+last)](https://git.io/typing-svg)
-
-<p>
-Full-stack developer who turns complex problems into elegant, scalable solutions.<br/>
-From idea to production — clean code, thoughtful design, and real-world impact.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/subham12r/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://x.com/@Subham12R">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>&nbsp;
-  <a href="https://subham12r.me">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/5ubhamkarmakar">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/fullstack%20developer-21262d?style=flat&logoColor=8b949e" />&nbsp;
+<img src="https://img.shields.io/badge/open%20source-21262d?style=flat&logoColor=8b949e" />&nbsp;
+<img src="https://img.shields.io/badge/tech%20lead-21262d?style=flat&logoColor=8b949e" />&nbsp;
+<img src="https://img.shields.io/badge/architecture-21262d?style=flat&logoColor=8b949e" />
 
 </div>
 
+<br/>
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="58%" valign="top">
+
+<h3>Building scalable systems<br/>that survive production.</h3>
+
+<sub>
+Full-stack developer &nbsp;·&nbsp; CYCODERS Tech Lead<br/>
+Turning complex problems into elegant, meaningful solutions.<br/>
+From idea to production — clean code, real-world impact.
+</sub>
+
+</td>
+<td width="42%" valign="top" align="right">
+
+<img src="https://img.shields.io/badge/ALWAYS_LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff" /><br/><br/>
+<img src="https://img.shields.io/badge/CRAFT_MATTERS-161b22?style=for-the-badge&logo=instatus&logoColor=f0c040" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center"><sub>S &nbsp; T &nbsp; A &nbsp; C &nbsp; K</sub></div>
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=node.js&logoColor=6DA55F)
+![FastAPI](https://img.shields.io/badge/Express.js-21262d?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-21262d?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-21262d?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Vercel](https://img.shields.io/badge/Vercel-21262d?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-21262d?style=flat-square&logo=netlify&logoColor=00C7B7)
+
+<br/>
+
 ---
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Deployment**
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subham12r&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subham12r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham12r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=subham12r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham12r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -87,15 +78,20 @@ From idea to production — clean code, thoughtful design, and real-world impact
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subham12r&radius=16&theme=tokyo-night&area=true&hide_border=true" height="300" alt="activity-graph graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subham12r&radius=16&theme=tokyo-night&area=true&hide_border=true" height="280" alt="activity-graph" />
 
 ---
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/subham12r/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>&nbsp;
+<a href="https://x.com/@Subham12R"><img src="https://img.shields.io/badge/X-21262d?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://subham12r.me"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=Firefox-Browser&logoColor=FF7139" /></a>&nbsp;
+<a href="https://instagram.com/5ubhamkarmakar"><img src="https://img.shields.io/badge/Instagram-21262d?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+
+<br/><br/>
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Subham12r&icon=2&color=3)](https://visitcount.itsvg.in)
 
