@@ -55,7 +55,7 @@ From idea to production — clean code, real-world impact.
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,java,docker,postgres,mongodb,mysql,kubernetes,tailwind,vercel,netlify&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,java,docker,postgres,mongodb,mysql,kubernetes,tailwind,vercel,netlify,redis,zod,zustand,anthropic&perline=8" />
 
 </div>
 
