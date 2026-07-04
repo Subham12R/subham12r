@@ -26,18 +26,7 @@ TypeScript, React, Next.js, Node.js, Express, Python, Java, Go — Docker, Kuber
 
 ---
 
-<div align="center">
-<table border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=subham12r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham12r&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
-</td>
-</tr>
-</table>
-</div>
+
 
 ---
 
