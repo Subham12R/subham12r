@@ -1,70 +1,42 @@
 <div align="center">
-
 <img src="https://github.com/Subham12R/subham12r/blob/main/banner.jpg" alt="banner" width="100%" />
-
-<br/><br/>
-
-# Subham Karmakar
-
-<sub>B U I L D &nbsp;&nbsp;•&nbsp;&nbsp; S H I P &nbsp;&nbsp;•&nbsp;&nbsp; S C A L E</sub>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&pause=1000&color=8B949E&center=true&vCenter=true&random=false&width=460&height=40&lines=Full-Stack+Developer+%7C+CYCODERS+Tech+Lead;Building+things+that+last)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://img.shields.io/badge/fullstack%20developer-21262d?style=flat&logoColor=8b949e" />&nbsp;
-<img src="https://img.shields.io/badge/open%20source-21262d?style=flat&logoColor=8b949e" />&nbsp;
-<img src="https://img.shields.io/badge/tech%20lead-21262d?style=flat&logoColor=8b949e" />&nbsp;
-<img src="https://img.shields.io/badge/architecture-21262d?style=flat&logoColor=8b949e" />
-
 </div>
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="58%" valign="top">
+# Hi, I'm Subham.
 
-<h3>Building scalable systems<br/>that survive production.</h3>
+I build things end to end, then explain how they work, then ship them somewhere real. That order matters to me — I'm not interested in demos that die in a repo. Somewhere between developer and organizer, I've ended up doing both: writing the code, and building the room the code gets discussed in.
 
-<sub>
-Full-stack developer &nbsp;·&nbsp; CYCODERS Tech Lead<br/>
-Turning complex problems into elegant, meaningful solutions.<br/>
-From idea to production — clean code, real-world impact.
-</sub>
+<br/>
 
-</td>
-<td width="42%" valign="top" align="right">
+### What I'm working on
 
-<img src="https://img.shields.io/badge/ALWAYS_LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff" /><br/><br/>
-<img src="https://img.shields.io/badge/CRAFT_MATTERS-161b22?style=for-the-badge&logo=instatus&logoColor=f0c040" />
+I'm a 3rd-year CS student at Adamas University, currently interning as an AI Engineer at Hooman Digital. Outside of that, most of my time goes into three things:
 
-</td>
-</tr>
-</table>
+**CyCoder** — a developer community platform I founded and built for Adamas University. It's not a prototype; it's a Docker-based production tool on a self-managed VPS with 100+ people actually using it every day.
+
+**Panda** — my own desktop AI workspace, built with Electron, React, and FastAPI, with a local RAG pipeline and support for multiple LLM providers. This one's mine — a personal experiment in what an AI-native desktop should feel like.
+
+**Agentic Infusion** — a workshop series and a six-part Medium series on what it actually means to build with AI agents, past the point of "vibe coding." I run the sessions in person and write up the thinking afterward.
+
+<br/>
+
+### How I like to work
+
+I lean toward self-hosting over managed platforms — my own VPS, Docker Compose, Nginx, Fail2Ban, the whole stack — because understanding the infrastructure underneath an app has always mattered to me as much as the app itself. I'd rather read the docs and build it myself than depend on something I don't understand.
+
+<br/>
+
+### Stack
+
+TypeScript, React, Next.js, Node.js, Express, Python, Java, Go — Docker, Kubernetes, PostgreSQL, MongoDB, MySQL, Redis — Tailwind, Zustand, Zod — deployed on Vercel, Netlify, and my own VPS — increasingly, the Anthropic API.
 
 <br/>
 
 ---
 
 <div align="center">
-
-<sub>S &nbsp; T &nbsp; A &nbsp; C &nbsp; K</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,java,docker,postgres,mongodb,mysql,kubernetes,tailwind,vercel,netlify,redis,zod,zustand,anthropic&perline=8" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 <table border="0" cellspacing="8" cellpadding="0">
 <tr>
 <td>
@@ -74,27 +46,13 @@ From idea to production — clean code, real-world impact.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham12r&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
 </td>
 </tr>
-<tr>
-<td>
-  <img src="https://streak-stats.demolab.com/?user=subham12r&theme=tokyonight&hide_border=true" height="165" />
-</td>
-<td>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham12r&radius=8&theme=tokyo-night&area=true&hide_border=true" height="165" />
-</td>
-</tr>
 </table>
-
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
+<br/>
 
-<a href="https://www.linkedin.com/in/subham12r/"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>&nbsp;
-<a href="https://x.com/@Subham12R"><img src="https://img.shields.io/badge/X-21262d?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
-<a href="https://subham12r.me"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=Firefox-Browser&logoColor=FF7139" /></a>&nbsp;
-<a href="https://instagram.com/5ubhamkarmakar"><img src="https://img.shields.io/badge/Instagram-21262d?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+### Find me elsewhere
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/subham12r/) · [X](https://x.com/Subham12R) · [Portfolio](https://subham12r.me) · [Instagram](https://instagram.com/5ubhamkarmakar) · dev@subham12r.me
