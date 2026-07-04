@@ -8,17 +8,7 @@
 
 I build things end to end, then explain how they work, then ship them somewhere real. That order matters to me — I'm not interested in demos that die in a repo. Somewhere between developer and organizer, I've ended up doing both: writing the code, and building the room the code gets discussed in.
 
-<br/>
-
-### What I'm working on
-
-I'm a 3rd-year CS student at Adamas University, currently interning as an AI Engineer at Hooman Digital. Outside of that, most of my time goes into three things:
-
-**CyCoder** — a developer community platform I founded and built for Adamas University. It's not a prototype; it's a Docker-based production tool on a self-managed VPS with 100+ people actually using it every day.
-
-**Panda** — my own desktop AI workspace, built with Electron, React, and FastAPI, with a local RAG pipeline and support for multiple LLM providers. This one's mine — a personal experiment in what an AI-native desktop should feel like.
-
-**Agentic Infusion** — a workshop series and a six-part Medium series on what it actually means to build with AI agents, past the point of "vibe coding." I run the sessions in person and write up the thinking afterward.
+I'm a 3rd-year CS student at Adamas University, currently interning as an AI Engineer at Hooman Digital.
 
 <br/>
 
