@@ -8,7 +8,7 @@
 
 I build things end to end, then explain how they work, then ship them somewhere real. That order matters to me — I'm not interested in demos that die in a repo. Somewhere between developer and organizer, I've ended up doing both: writing the code, and building the room the code gets discussed in.
 
-I'm a 3rd-year CS student at Adamas University, currently interning as an AI Engineer at Hooman Digital.
+I'm a 3rd-year CS student at Adamas University, currently tech lead at College Community CYCODERS
 
 <br/>
 
