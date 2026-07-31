@@ -27,9 +27,17 @@ I also serve as Tech Lead at College Community CYCODERS, where I help create the
 ## Selected work
 
 - **Ryze AI** — built responsive, reusable frontend systems and integrated APIs for production-facing experiences. (Internship - Remote)
-- **CYCODERS** — Student Coordinator and Tech Lead, leading tech initiatives and guiding juniors to build great systems and projects to excel in career and maintaining [[cycoders.in]] - built by me from scratch now serving over 200+ students and teachers to maintain the club starting from attendance, reward/certification management, student management and a gamified dashboard experience.
+- **CYCODERS** — As Student Coordinator and Tech Lead, I lead technical initiatives, mentor junior developers, and built [cycoders.in](https://cycoders.in)—a club-management platform serving 200+ students and faculty.
 
-I write about the systems behind the software too—most recently, what moving from managed platforms to a self-hosted VPS taught me about deployment and ownership.
+## Writing
+
+- [Important Concepts to Remember When Setting Up a Backend for Production](https://subham12r.me/blog/backend-to-production-concepts)
+- [How to Grind Hard in a Specific Domain](https://subham12r.me/blog/how-to-grind-hard-in-specific-domain)
+- [Are You Out of Ideas?](https://subham12r.me/blog/are-you-out-of-ideas)
+- [What My Internship Taught Me About Understanding and Debugging a Codebase](https://subham12r.me/blog/internship-debugging-lessons)
+- [From Managed Platform to VPS: How I Went From Deploying to Understanding](https://medium.com/@rikk4335/from-managed-platform-to-vps-how-i-went-from-deploying-to-understanding-652523ec694c)
+
+[View all writing →](https://subham12r.me/blog)
 
 ## Let's build something useful
 
