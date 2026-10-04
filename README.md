@@ -27,7 +27,7 @@ I also serve as Tech Lead at College Community CYCODERS, where I help create the
 ## Selected work
 
 - **Ryze AI** — built responsive, reusable frontend systems and integrated APIs for production-facing experiences. (Internship - Remote)
-- **CYCODERS** — As Student Coordinator and Tech Lead, I lead technical initiatives, mentor junior developers, and built [cycoders.in](https://cycoders.in)—a club-management platform serving 200+ students and faculty.
+- **CYCODERS** — As Student Lead, I lead technical initiatives, mentor junior developers, and built [cycoders.in](https://cycoders.in)—a club-management platform serving 200+ students and faculty.
 
 ## Writing
 
