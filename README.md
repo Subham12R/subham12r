@@ -67,8 +67,6 @@ Full-stack developer and CS student at Adamas University. I build products end t
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Subham12R&show_icons=true&hide_border=true&theme=transparent&count_private=true)](https://github.com/Subham12R)
-
 <img src="https://ghchart.rshah.org/18181b/Subham12R" alt="GitHub contribution calendar" width="100%" />
 
 </div>
