@@ -8,10 +8,10 @@
 
 Full-stack developer and CS student at Adamas University. I build products end to end, from interface to infrastructure, and ship them somewhere real. Tech Lead at [CYCODERS](https://cycoders.in).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-subham12r.me-18181b?style=flat-square)](https://subham12r.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-subham12r.me-18181b?style=flat-square)](https://subham12r.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subham12r-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham12r/)
 [![X](https://img.shields.io/badge/X-@Subham12R-18181b?style=flat-square&logo=x&logoColor=white)](https://x.com/Subham12R)
-[![Email](https://img.shields.io/badge/Email-dev@subham12r.me-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:dev@subham12r.me)
+[![Email](https://img.shields.io/badge/Email-dev@subham12r.me-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:subham@subham12r.dev)
 
 ## Stack
 
