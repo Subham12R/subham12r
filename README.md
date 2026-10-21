@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="Subham Karmakar — full-stack developer" src="https://github.com/user-attachments/assets/d2ed91f1-1432-44cb-9f55-a8e58a5d239a" />
+<img width="1500" height="500" alt="Illustrative Manga Tutor Twitter Header (3)" src="https://github.com/user-attachments/assets/5cd56178-c2a2-466d-a281-33473ecc716f" />
+
 </div>
 
 # Hi, I'm Subham Karmakar.
